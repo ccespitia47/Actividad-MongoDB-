@@ -1,0 +1,48 @@
+[{
+  "_id": 1013055768,
+  "nombres": "Marcelo",
+  "apellidos": "Lopez Rodriguez",
+  "fecha_nacimiento": "1993-07-15",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 15
+},
+{
+  "_id": 1014055769,
+  "nombres": "Malcom",
+  "apellidos": "Ruiz Patiño",
+  "fecha_nacimiento": "1984-10-15",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 10
+},
+{
+  "_id": 1013055098,
+  "nombres": "Camilo",
+  "apellidos": "Peña Linares",
+  "fecha_nacimiento": "1986-04-21",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 12
+},
+{
+  "_id": 1013765768,
+  "nombres": "Javier",
+  "apellidos": "Torres Lopez",
+  "fecha_nacimiento": "1987-07-10",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 15
+},
+{
+  "_id": 1017435768,
+  "nombres": "Manuel",
+  "apellidos": "Peña Ropero",
+  "fecha_nacimiento": "1990-11-09",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 8
+},
+{
+  "_id": 1010985768,
+  "nombres": "Carlos",
+  "apellidos": "Peña Amaya",
+  "fecha_nacimiento": "1980-09-11",
+  "nacionalidad": "Colombiano",
+  "anos_experiencia": 13
+}]

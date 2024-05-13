@@ -1,0 +1,42 @@
+[{
+  "_id": 1,
+  "Nombre_equipo": "Ibero-1",
+  "fecha_inscripción": "2023-10-10",
+  "estadio": "El Campin",
+  "localidad": "Suba"
+},
+{
+  "_id": 2,
+  "Nombre_equipo": "Ibero-2",
+  "fecha_inscripción": "2023-10-10",
+  "estadio": "Techo",
+  "localidad": "Kenedy"
+},
+{
+  "_id": 3,
+  "Nombre_equipo": "Ibero-3",
+  "fecha_inscripción": "2023-10-09",
+  "estadio": "Techo",
+  "localidad": "Chapinero"
+},
+{
+  "_id": 4,
+  "Nombre_equipo": "Ibero-4",
+  "fecha_inscripción": "2023-10-09",
+  "estadio": "El Campin",
+  "localidad": "Teusaquillo"
+},
+{
+  "_id": 5,
+  "nombre_equipo": "Ibero-5",
+  "fecha_inscripción": "2023-10-10",
+  "estadio": "El Campin",
+  "localidad": "Usaquen"
+},
+{
+  "_id": 6,
+  "nombre_equipo": "Ibero-1",
+  "fecha_inscripción": "2023-10-10",
+  "estadio": "Techo",
+  "localidad": "Ciudad Bolivar"
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "fecha_partido": "2023-11-12",
+  "hora_partido": "15:00",
+  "estadio": "El Campin",
+  "local": "Ibero-1",
+  "visitante": "Ibero-2"
+},
+{
+  "_id": 2,
+  "fecha_partido": "2023-11-12",
+  "hora_partido": "15:00",
+  "estadio": "Techo",
+  "local": "Ibero-3",
+  "visitante": "Ibero-4"
+},
+{
+  "_id": 3,
+  "fecha_partido": "2023-11-12",
+  "hora_partido": "20:00",
+  "estadio": "El Campin",
+  "local": "Ibero-5",
+  "visitante": "Ibero-6"
+},
+{
+  "_id": 4,
+  "fecha_partido": "2023-11-16",
+  "hora_partido": "14:00",
+  "estadio": "El Campin",
+  "local": "Ibero-1",
+  "visitante": "Ibero-4"
+},
+{
+  "_id": 5,
+  "fecha_partido": "2023-11-16",
+  "hora_partido": "14:00",
+  "estadio": "Techo",
+  "local": "Ibero-2",
+  "visitante": "Ibero-6"
+},
+{
+  "_id": 6,
+  "fecha_partido": "2023-11-16",
+  "hora_partido": "19:30",
+  "estadio": "Techo",
+  "local": "Ibero-3",
+  "visitante": "Ibero-5"
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": 1015437174,
+  "nombres": "Cristian Camilo",
+  "apellidos": "Espitia Guerrero",
+  "fecha_nacimiento": "1993-02-13",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+},
+{
+  "_id": 1012435674,
+  "nombres": "Camilo",
+  "apellidos": "Rodriguez Perez",
+  "fecha_nacimiento": "1991-02-13",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+},
+{
+  "_id": 1015438765,
+  "nombres": "Pedro",
+  "apellidos": "Perez Perez",
+  "fecha_nacimiento": "1993-05-13",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+},
+{
+  "_id": 1012433454,
+  "nombres": "David",
+  "apellidos": "Villa Pinzon",
+  "fecha_nacimiento": "1990-12-13",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+},
+{
+  "_id": 1015876174,
+  "nombres": "Juan David",
+  "apellidos": "Ropero Martinez",
+  "fecha_nacimiento": "1994-02-20",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+},
+{
+  "_id": 1012435777,
+  "nombres": "Edilberto",
+  "apellidos": "Choconta Lopez",
+  "fecha_nacimiento": "1995-11-21",
+  "nacionalidad": "Colombia",
+  "posición": "dc"
+}]

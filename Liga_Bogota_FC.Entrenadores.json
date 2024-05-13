@@ -1,0 +1,48 @@
+[{
+  "_id": 1019640087,
+  "nombres": "Raul",
+  "apellidos": "Jimenez Rodriguez",
+  "fecha_nacimiento": "1987-04-25",
+  "nacionalidad": "Colombia",
+  "experiencia": 10
+},
+{
+  "_id": 1019640987,
+  "nombres": "Fabian",
+  "apellidos": "Martinez Rodriguez",
+  "fecha_nacimiento": "1988-05-12",
+  "nacionalidad": "Colombia",
+  "experiencia": 16
+},
+{
+  "_id": 1019098087,
+  "nombres": "Daniel",
+  "apellidos": "Perea Garzon",
+  "fecha_nacimiento": "1988-04-01",
+  "nacionalidad": "Colombia",
+  "experiencia": 10
+},
+{
+  "_id": 1019640856,
+  "nombres": "Martin",
+  "apellidos": "Marin Rodriguez",
+  "fecha_nacimiento": "1988-10-12",
+  "nacionalidad": "Colombia",
+  "experiencia": 16
+},
+{
+  "_id": 1019870087,
+  "nombres": "Marcos",
+  "apellidos": "Diaz Jimenez",
+  "fecha_nacimiento": "1987-04-25",
+  "nacionalidad": "Colombia",
+  "experiencia": 10
+},
+{
+  "_id": 1019123087,
+  "nombres": "Sergio",
+  "apellidos": "Martinez Cuadrado",
+  "fecha_nacimiento": "1988-05-12",
+  "nacionalidad": "Colombia",
+  "experiencia": 16
+}]
